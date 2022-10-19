@@ -1,9 +1,5 @@
 {
   "version": 2,
-  "env": {
-    "MONGO_DB_URI": "@MONGO_DB_URI",
-    "JWT_SECRET_KEY": "@JWT_SECRET_KEY"
-  },
   "builds": [
     {
       "src": "src/main.ts",
